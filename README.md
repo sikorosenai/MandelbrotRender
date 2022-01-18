@@ -1,4 +1,4 @@
 # MandelbrotRender
 A render of the Mandelbrot fractal
 
-![Screenshot](./screenshot.png)
+![Screenshot](https://github.com/sikorosenai/MandelbrotRender/blob/main/screenshot.PNG)
